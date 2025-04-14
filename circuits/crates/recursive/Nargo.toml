@@ -1,7 +1,0 @@
-[package]
-name = "recursive"
-type = "bin"
-authors = ["Theo Madzou"]
-compiler_version = ">=0.32.0"
-
-[dependencies]

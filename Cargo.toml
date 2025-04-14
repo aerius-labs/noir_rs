@@ -7,6 +7,6 @@ authors = ["Bartosz Nowak", "Theo Madzou"]
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-bb_rs = { git = "https://github.com/zkpassport/aztec-packages.git", branch = "v0.82.2"}
+bb_rs = { git = "https://github.com/aerius-labs/aztec-packages.git", branch = "feat/r0"}
 
 
